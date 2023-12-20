@@ -27,6 +27,11 @@ RegisterNumber:212223230183
 # PROGRAM:
 ![Screenshot (49)](https://github.com/Sandhiyapalanivel/Experiment--02-Implementation-of-combinational-logic-/assets/145743091/05192044-e542-40ee-adae-cf21efb98b4a)
 
+# TRUTH TABLE:
+
+![image](https://github.com/Sandhiyapalanivel/Experiment--02-Implementation-of-combinational-logic-/assets/145743091/56c60fa8-64d9-4700-914d-178f571dbd68)
+
+
 ## RTL VIEW:
 
 ![Screenshot (51)](https://github.com/Sandhiyapalanivel/Experiment--02-Implementation-of-combinational-logic-/assets/145743091/7921f6e8-c489-4f55-927e-b9d880f739d9)
